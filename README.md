@@ -1,1 +1,1 @@
-Altitude Logger Created for arduino using pressure sensor.
+Altitude Logger Created for arduino. (using pressure sensor)
